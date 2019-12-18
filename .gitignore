@@ -1,0 +1,7 @@
+exports/
+.Rdata
+.Rhistory
+tests/
+.xcf
+.svg
+.Rproj
